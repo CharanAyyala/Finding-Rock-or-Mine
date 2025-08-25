@@ -1,0 +1,2 @@
+M-> Mine 
+R-> Rock
